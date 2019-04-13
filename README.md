@@ -7,7 +7,7 @@ The RIPPLE is running with TF-LISP. But it use different parser and user I/F. TF
 
 See the http://sourceforge.net/p/tflisp/
 
-The first idea is made in 1993. The research became to finish. All patents were abandoned. It's can use everyone freely.
+The first idea was made in 1993. The research became to finish. All patents were abandoned. It's can use everyone freely.
 
 
 EOF
